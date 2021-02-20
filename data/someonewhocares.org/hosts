@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 21 Jan 2021 at 09:51:06 GMT
+# Last updated: Tue, 16 Feb 2021 at 08:48:15 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7013,6 +7013,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 anephangja.com
 0.0.0.0 anepszava.com
 0.0.0.0 anetit.tradedoubler.com
+0.0.0.0 angeldonationblog.com
 0.0.0.0 ankieta-online.pl
 0.0.0.0 annuaire-autosurf.com
 0.0.0.0 anonymous-net.com
@@ -7444,6 +7445,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 blatant8jh.info
 0.0.0.0 blockchaintop.nl
 0.0.0.0 blog.addthis.com
+0.0.0.0 blog.br0vvnn.io
 0.0.0.0 blogads.com
 0.0.0.0 blogads.ebanner.nl
 0.0.0.0 blogvertising.pl
@@ -7495,6 +7497,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bsads.looksmart.com
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bt.linkpulse.com
+0.0.0.0 btbuyerapp.com
 0.0.0.0 btkiwisys.com
 0.0.0.0 budapest1873.net
 0.0.0.0 buf.lemonde.fr
@@ -7732,6 +7735,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cdn.onescreen.net
 0.0.0.0 cdn.onthe.io
+0.0.0.0 cdn.owebanalytics.com
 0.0.0.0 cdn.palomatik.info
 0.0.0.0 cdn.pickyopahs.com
 0.0.0.0 cdn.sagent.io
@@ -7940,6 +7944,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 code.adtlgc.com
 0.0.0.0 code.vihub.ru
 0.0.0.0 code2.adtlgc.com
+0.0.0.0 codevexillium.org
 0.0.0.0 coffeehausblog.com
 0.0.0.0 coin-ad.com
 0.0.0.0 coinad.com
@@ -9145,6 +9150,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 intnet-offer.com
 0.0.0.0 intrack.pl
 0.0.0.0 inv-nets.admixer.net
+0.0.0.0 investbooking.de
 0.0.0.0 invitefashion.com
 0.0.0.0 ioubes.press
 0.0.0.0 ipacc1.adtech.de
@@ -9312,9 +9318,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 kos.interseek.si
 0.0.0.0 koszykrd.wp.pl
 0.0.0.0 kozszolgalat.com
+0.0.0.0 krakenfolio.com
 0.0.0.0 kreaffiliation.com
 0.0.0.0 kromtech.net
 0.0.0.0 kropka.onet.pl
+0.0.0.0 ksi2trk.com
 0.0.0.0 ktrackdata.com
 0.0.0.0 ku6.allyes.com
 0.0.0.0 ku6afp.allyes.com
@@ -9898,6 +9906,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 newjunk4u.com
 0.0.0.0 newliveupdate.thereadycentercontentingplacefree.download
 0.0.0.0 newmedsdeal.eu
+0.0.0.0 newms-shop.su
 0.0.0.0 news-finances.com
 0.0.0.0 news6health.com
 0.0.0.0 newsblock.marketgid.com
@@ -10087,6 +10096,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 openx2.fotoflexer.com
 0.0.0.0 openxxx.viragemedia.com
 0.0.0.0 oplaca-sie.pl
+0.0.0.0 opsonew3org.sg
 0.0.0.0 optimize.indieclick.com
 0.0.0.0 optimized.by.vitalads.net
 0.0.0.0 optimizedby.openx.com
@@ -10316,6 +10326,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pol.bbelements.com
 0.0.0.0 poland.gift-today85.online
 0.0.0.0 pole.6rooms.com
+0.0.0.0 polinstart.cloud
 0.0.0.0 politicalopinionsurvey.com
 0.0.0.0 polskasupermarkecie.website
 0.0.0.0 pool-roularta.adhese.com
@@ -11358,6 +11369,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tech.weeklytribune.net
 0.0.0.0 techasiamusicsvr.com
 0.0.0.0 techexpert.site
+0.0.0.0 techms-shop.su
 0.0.0.0 technicads.com
 0.0.0.0 technicaldigitalreporting.com
 0.0.0.0 technicserv.com
@@ -11509,6 +11521,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trackvoluum.com
 0.0.0.0 tradearabia.advertserve.com
 0.0.0.0 tradefx.advertserve.com
+0.0.0.0 tradelax.com
 0.0.0.0 tradem.com
 0.0.0.0 tradetracker.net
 0.0.0.0 traffic.adxprts.com
@@ -11526,6 +11539,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 trafsearchonline.com
 0.0.0.0 trafstarcurlms.com
 0.0.0.0 traktum.com
+0.0.0.0 transferwiser.io
+0.0.0.0 transplugin.io
 0.0.0.0 travel-leisure-bonuspath.com
 0.0.0.0 travel-leisure-premiumblvd.com
 0.0.0.0 traveller-offer.com
@@ -11978,6 +11993,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 wordplaywhiz.com
 0.0.0.0 work-offer.com
+0.0.0.0 world-newse.com
 0.0.0.0 worry-free-savings.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wpad.cinci.rr.com
@@ -13157,6 +13173,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 yourrewardzone.com
 0.0.0.0 yoursmartrewards.com
 0.0.0.0 ypn-js.overture.com
+0.0.0.0 yrxyhtx.golovanskyin.xyz
 0.0.0.0 ysiu.freenation.com
 0.0.0.0 yt-adblocker.com
 0.0.0.0 ytaahg.vo.llnwd.net
