@@ -2,6 +2,7 @@
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
@@ -2219,3 +2220,6 @@
 # Added June 21, 2022
 0.0.0.0 speeddials.opera.com
 0.0.0.0 merchandise.opera-api.com
+
+# added June 25, 2022
+0.0.0.0 analytics.binaryfortress.com
