@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 06 September 2023 21:27:07 (UTC)
+# Date: 11 September 2023 01:17:08 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 66,334
+# Number of unique domains: 66,309
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2213,9 +2213,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 05 Sep 2023 10:14 UTC+7
-# Version: 2309051014
-# Blocked: 4,935 domains
+# Last modified: 08 Sep 2023 14:08 UTC+7
+# Version: 2309081408
+# Blocked: 4,944 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -3048,6 +3048,7 @@
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
 0.0.0.0 choigiaitri.net
+0.0.0.0 choihitclub.run
 0.0.0.0 choiiwin79.fun
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
@@ -3530,6 +3531,7 @@
 0.0.0.0 hit1.club
 0.0.0.0 hit1.co
 0.0.0.0 hit32.club
+0.0.0.0 hit38.club
 0.0.0.0 hit68.net
 0.0.0.0 hl8.daily123hl8.com
 0.0.0.0 hl8atm.com
@@ -5250,6 +5252,7 @@
 0.0.0.0 m.qq288.com
 0.0.0.0 m.qq8788viet.com
 0.0.0.0 m.red88.com
+0.0.0.0 m.s26bet01.com
 0.0.0.0 m.shbet.love
 0.0.0.0 m.tf88265.com
 0.0.0.0 m.tf88v.com
@@ -5267,6 +5270,7 @@
 0.0.0.0 m.v9jbo.com
 0.0.0.0 m.v9jvn.com
 0.0.0.0 m.v9win.com
+0.0.0.0 m.vf678.com
 0.0.0.0 m.vipbet001.org
 0.0.0.0 m.viva88.com
 0.0.0.0 m.vn88.com
@@ -5539,6 +5543,7 @@
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88s.tv
 0.0.0.0 play.hit1.co
+0.0.0.0 play.hit38.club
 0.0.0.0 play.hit68.net
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
@@ -5664,6 +5669,7 @@
 0.0.0.0 reg.playiwin.site
 0.0.0.0 resources.bong90.bet
 0.0.0.0 rewards.w88bkk.com
+0.0.0.0 rg.choihitclub.run
 0.0.0.0 rgcsn.com
 0.0.0.0 rik.bet
 0.0.0.0 rik.club
@@ -5701,6 +5707,7 @@
 0.0.0.0 s2.sin88.cc
 0.0.0.0 s2.sin88.club
 0.0.0.0 s26bet.bet
+0.0.0.0 s26bet01.com
 0.0.0.0 s555.com
 0.0.0.0 s666bet.win
 0.0.0.0 s99902e.com
@@ -6157,6 +6164,7 @@
 0.0.0.0 vf003.xyz
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
+0.0.0.0 vf678.com
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
 0.0.0.0 vg66.com
@@ -6732,6 +6740,7 @@
 0.0.0.0 www.god55viet.com
 0.0.0.0 www.h3bet.com
 0.0.0.0 www.happynb.com
+0.0.0.0 www.hb88031.com
 0.0.0.0 www.hb88032.com
 0.0.0.0 www.hb8864.com
 0.0.0.0 www.hb8887.com
@@ -9741,9 +9750,9 @@
 0.0.0.0 zodiacu.com
 0.0.0.0 zpisportbk.com
 # Title: hostsVN Adult
-# Last modified: 05 Sep 2023 10:14 UTC+7
-# Version: 2309051014
-# Blocked: 3,384 domains
+# Last modified: 08 Sep 2023 14:08 UTC+7
+# Version: 2309081408
+# Blocked: 3,385 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10689,6 +10698,7 @@
 0.0.0.0 kieunuvadaigia.xyz
 0.0.0.0 kieunuviet.xyz
 0.0.0.0 kphimsex.xyz
+0.0.0.0 ktv.bio
 0.0.0.0 kute3x.net
 0.0.0.0 kynu.live
 0.0.0.0 kynudanang.link
@@ -45139,13 +45149,6 @@
 0.0.0.0 arabysexy.mobi
 0.0.0.0 arbada.com
 0.0.0.0 arceleb.wordpress.com
-0.0.0.0 archive.ph/gKMcR
-0.0.0.0 archive.ph/goUZE
-0.0.0.0 archive.ph/nWwIO
-0.0.0.0 archive.ph/RHJht
-0.0.0.0 archive.ph/tYeYc
-0.0.0.0 archive.vn/6hOf5
-0.0.0.0 archive.vn/KJxo1
 0.0.0.0 archontis.ru
 0.0.0.0 ardentmums.com
 0.0.0.0 area51-porn.ru
@@ -47373,7 +47376,7 @@
 0.0.0.0 egirls.wtf
 0.0.0.0 egrannyporn.com
 0.0.0.0 egyfilm2.blogspot.com
-0.0.0.0 Ehentai.to
+0.0.0.0 ehentai.to
 0.0.0.0 ehentai.wiki
 0.0.0.0 ehospitalitystudy.in
 0.0.0.0 ehotpics.com
@@ -47465,7 +47468,6 @@
 0.0.0.0 epornum.hu
 0.0.0.0 equbits.com
 0.0.0.0 era-platform.eu
-0.0.0.0 erenoiba.fun/
 0.0.0.0 eretroporn.com
 0.0.0.0 erett.sex.hu
 0.0.0.0 erett.szex.hu
@@ -47678,7 +47680,6 @@
 0.0.0.0 exposedlatinas.com
 0.0.0.0 expressretro.com
 0.0.0.0 expxxx.com
-0.0.0.0 exsite.pl/erotyka-18
 0.0.0.0 extra-porno.cz
 0.0.0.0 extraasian.com
 0.0.0.0 extralunchmoney.com
@@ -47759,11 +47760,6 @@
 0.0.0.0 fantasies-girls.com
 0.0.0.0 fantasy4you.info
 0.0.0.0 fap-nation-com.ru
-0.0.0.0 fap-nation.com/dating-my-daughter
-0.0.0.0 fap-nation.com/incest-adventure
-0.0.0.0 fap-nation.com/lust-and-power
-0.0.0.0 fap-nation.com/rack-2
-0.0.0.0 fap-nation.com/snow-daze-the-music-of-winter
 0.0.0.0 fap.bar
 0.0.0.0 fap.com
 0.0.0.0 fap.cool
@@ -48450,7 +48446,6 @@
 0.0.0.0 freexxxland.al
 0.0.0.0 freexxxmovies.biz
 0.0.0.0 freexxxpages.net
-0.0.0.0 freexxxporn.fun/
 0.0.0.0 freexxxporn.org
 0.0.0.0 freexxxteeny.com
 0.0.0.0 freexxxtv.online
@@ -48602,7 +48597,6 @@
 0.0.0.0 fully.sex
 0.0.0.0 fundorado.com
 0.0.0.0 funkeln.eu
-0.0.0.0 funkeln.eu/tag
 0.0.0.0 funlist123.com
 0.0.0.0 funmovies.at
 0.0.0.0 funmwzj.net
@@ -50501,7 +50495,6 @@
 0.0.0.0 innocentdream.com
 0.0.0.0 inporn.com
 0.0.0.0 insane-day.com
-0.0.0.0 insane-day.com/
 0.0.0.0 insidepaysites.com
 0.0.0.0 inssia.com
 0.0.0.0 instagramlivesbr.blogspot.com
@@ -52588,7 +52581,6 @@
 0.0.0.0 msxolne.angelfire.com
 0.0.0.0 mtrpr.com
 0.0.0.0 mu.anwap.tube
-0.0.0.0 mu.anwap.tube/films/r33
 0.0.0.0 muchohentai.tv
 0.0.0.0 muctau.com
 0.0.0.0 muitohentai.ru
@@ -52747,7 +52739,7 @@
 0.0.0.0 mysexyteens.com
 0.0.0.0 mysexyteens.net
 0.0.0.0 mysislovesme.com
-0.0.0.0 mySubs.cc
+0.0.0.0 mysubs.cc
 0.0.0.0 myswing.club
 0.0.0.0 mytaboo.net
 0.0.0.0 mytabu.net
@@ -52810,7 +52802,6 @@
 0.0.0.0 naked-society.com
 0.0.0.0 naked-teens.me
 0.0.0.0 naked.chiks.org
-0.0.0.0 naked.picsvirgin.top/
 0.0.0.0 naked.xxxyoung.life
 0.0.0.0 nakedarabgirls.pro
 0.0.0.0 nakedasian.xyz
@@ -52871,15 +52862,12 @@
 0.0.0.0 nakedoldladies.com
 0.0.0.0 nakedoldladies.net
 0.0.0.0 nakedparty.top
-0.0.0.0 nakedparty.top/
 0.0.0.0 nakedpics.ca
 0.0.0.0 nakedpics.fun
-0.0.0.0 nakedpicstop.top/
 0.0.0.0 nakedporn.top
 0.0.0.0 nakedpornstarspics.com
 0.0.0.0 nakedpussygirls.net
 0.0.0.0 nakedpussyteen.fun
-0.0.0.0 nakedpussyteen.fun/
 0.0.0.0 nakedrussianteen.com
 0.0.0.0 nakeds.club
 0.0.0.0 nakedsex.video
@@ -53066,7 +53054,7 @@
 0.0.0.0 nha-boz.ru
 0.0.0.0 nhentai.io
 0.0.0.0 nhentai.pro
-0.0.0.0 Nhentai.to
+0.0.0.0 nhentai.to
 0.0.0.0 nhentai.uk
 0.0.0.0 nhentai.website
 0.0.0.0 nhentai.xxx
@@ -53204,7 +53192,6 @@
 0.0.0.0 nudeafrica.click
 0.0.0.0 nudeafricantwat.com
 0.0.0.0 nudeandcute.com
-0.0.0.0 nudeangels.top/
 0.0.0.0 nudeartstars.com
 0.0.0.0 nudeasiangirls.net
 0.0.0.0 nudeasiangirls.xyz
@@ -54466,7 +54453,6 @@
 0.0.0.0 porno-von-nebenan.net
 0.0.0.0 porno-xvideo.com
 0.0.0.0 porno-xxx.top
-0.0.0.0 porno-xxx.top/
 0.0.0.0 porno-young.ru
 0.0.0.0 porno.co.hu
 0.0.0.0 porno.fm
@@ -54505,7 +54491,6 @@
 0.0.0.0 pornoaer.me
 0.0.0.0 pornoaer.ru
 0.0.0.0 pornoaid.com
-0.0.0.0 pornoalfa.com/
 0.0.0.0 pornoamador.blog
 0.0.0.0 pornoamateurlatino.net
 0.0.0.0 pornoamateurvip.xxx
@@ -54666,7 +54651,6 @@
 0.0.0.0 pornoman.pl
 0.0.0.0 pornomaneiro.com.br
 0.0.0.0 pornomania.org
-0.0.0.0 pornomania.org/
 0.0.0.0 pornomanoir.com
 0.0.0.0 pornomass.com
 0.0.0.0 pornomatura.it
@@ -54983,7 +54967,6 @@
 0.0.0.0 portalangels.com.sapo.pt
 0.0.0.0 porzo.com
 0.0.0.0 porzo.tv
-0.0.0.0 posefamily.com/
 0.0.0.0 poseyoung.com
 0.0.0.0 poshgay.com
 0.0.0.0 postyourflasher.com
@@ -56244,7 +56227,6 @@
 0.0.0.0 sharkyporn.com
 0.0.0.0 shavedjapanesegirl.com
 0.0.0.0 shavedpussys.click
-0.0.0.0 shavedpussys.click/
 0.0.0.0 she66.com
 0.0.0.0 sheamateur.com
 0.0.0.0 sheblokes57.com
@@ -56353,7 +56335,6 @@
 0.0.0.0 shiptome.ru
 0.0.0.0 shitting.jerkoffgalleries.com
 0.0.0.0 shlick.it
-0.0.0.0 shocking.picsvirgin.top/
 0.0.0.0 shockingteens.pro
 0.0.0.0 shockingteenspics.com
 0.0.0.0 shooshtime.club
@@ -56510,7 +56491,6 @@
 0.0.0.0 socaseiras.com.br
 0.0.0.0 socialmediapornstars.com
 0.0.0.0 socoroas.net
-0.0.0.0 socutegirls.top/
 0.0.0.0 sodotados.com
 0.0.0.0 soft-babez.cc
 0.0.0.0 soft-porn.net
@@ -57495,7 +57475,6 @@
 0.0.0.0 tiny4k.club
 0.0.0.0 tinyclitjb.com
 0.0.0.0 tinynude.fun
-0.0.0.0 tinynude.fun/
 0.0.0.0 tinypussy.space
 0.0.0.0 tinypussypics.com
 0.0.0.0 tinyteen-x.pw
@@ -57634,7 +57613,6 @@
 0.0.0.0 torturiser.com
 0.0.0.0 totalfucktube.com
 0.0.0.0 totalgals.com
-0.0.0.0 totallpuss.in/
 0.0.0.0 totally-naked-girls.com
 0.0.0.0 totallyfreecam.com
 0.0.0.0 totallynakedteens.com
@@ -62047,7 +62025,6 @@
 0.0.0.0 xhbranch8.com
 0.0.0.0 xhbranch9.com
 0.0.0.0 xhdnude.com
-0.0.0.0 xhdnude.com/
 0.0.0.0 xhdporno.plus
 0.0.0.0 xhihi.me
 0.0.0.0 xhofficial.com
@@ -62707,7 +62684,6 @@
 0.0.0.0 xxxsex.rocks
 0.0.0.0 xxxsex.rodeo
 0.0.0.0 xxxsex8.fun
-0.0.0.0 xxxsex8.fun/
 0.0.0.0 xxxsexasian.com
 0.0.0.0 xxxsexdevil.com
 0.0.0.0 xxxsexpic.me
@@ -62944,7 +62920,6 @@
 0.0.0.0 youngnude.me
 0.0.0.0 youngnudeteen.com
 0.0.0.0 youngnudism.eu
-0.0.0.0 youngnudism.eu/
 0.0.0.0 youngnudist.xyz
 0.0.0.0 youngpicssex.com
 0.0.0.0 youngpornboss.com
