@@ -38,7 +38,7 @@
                 orig = builtins.readFile ("${self}/" + (lib.optionalString (alternatesList != []) alternatesPath) + "hosts");
                 ipv6 = builtins.replaceStrings [ "0.0.0.0" ] [ "::" ] orig;
               in
-              orig + (lib.optionalString cfg.enableIPv6 ("\n" + ipv6));
+              lib.mkAfter (orig + (lib.optionalString cfg.enableIPv6 ("\n" + ipv6)));
           };
         };
 
